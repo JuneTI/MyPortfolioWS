@@ -1,0 +1,46 @@
+
+form {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25% 58%;
+    gap: 1.2rem;
+    justify-content: center;
+
+}
+
+input, textarea {
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: .5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-primary);
+}
+
+input {
+    margin-bottom: 10px;
+    
+    
+}
+
+.inputLeft, input {
+    height: 10%;
+    padding: 1rem;
+}
+
+
+/* MEDIA QUERIES ( MEDIUM DEVICES) */
+@media screen and (max-width: 1024px) {
+    form {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+/* MEDIA QUERIES ( SMALL ) */
+@media screen and (max-width: 600px) {
+    .container.contact__container {
+        width: var(--container-wdith-sm);
+    }
+}
