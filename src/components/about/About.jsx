@@ -43,7 +43,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hi I'm Lance Tero a graduate of MTSU's Class of 2023. I am planning to get my masters in the future but that is uncertain. I have a passion for coding and love learning new skills in the industry. I have big a big interest in robotics, machine learning and A.I. </p>
+          <p>Hi I'm Lance Tero a graduate of MTSU's Class of 2023. I am planning to get my masters in the future but that is uncertain. I have a passion for coding and love learning new skills in the industry. I have big a big interest in Machine Learning, Web Development and Data Analytics. </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
 
