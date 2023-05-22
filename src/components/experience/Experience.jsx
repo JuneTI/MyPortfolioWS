@@ -52,7 +52,7 @@ const Experience = () => {
           <div className="skills__content">
             <article className="skills_details">
               <h4>Software Engineering - Vanderbilt</h4>
-              <p className='text-light'>Worked with a graduate student from Vanderbilt University with 4 other members to develop a game that would collect data on people with autism to find problem areas in their social skills.</p>
+              <p className='text-light'>Worked with a graduate student from Vanderbilt University with 4 other members to develop a game in Unity that would collect data on players to help find problem areas in their social skills.</p>
             </article>
           </div>
         </div>
